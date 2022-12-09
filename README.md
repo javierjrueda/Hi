@@ -1,5 +1,8 @@
 # 👋🏼 Hi there!
 
-I’ve been creating [Totem](https://www.tot-em.com/en/), an international brand that creates technological jewelry. 💍
+I'm working on building [PromptHero](https://prompthero.com) a place to learn generative AI. 
+And [VisualHound](https://visualhound.com/) AI tools for fashion brands. 🤖🎨
 
-Now I'm working on building [PromptHero](https://prompthero.com). Creating AI tools that allow us to design better and faster. 🤖🎨
+
+Prev. [Totem](https://www.tot-em.com/en/), an international brand that creates technological jewelry. 💍
+
