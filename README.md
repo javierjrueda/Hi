@@ -1,1 +1,3 @@
-## 🌎 AI Educator at [PromptHero](https://prompthero.com)
+## 🌎 Exploring the limits of generative AI:
+- [PromptHero](https://prompthero.com)
+- [VisualHound](https://visualhound.com/)
